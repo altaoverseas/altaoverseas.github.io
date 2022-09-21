@@ -6676,7 +6676,7 @@ let products = {
             partNumber: " M10*1.5*38 ",
             machine: "",
             price: " 2.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.05kg ",
         },
         {
@@ -6685,7 +6685,7 @@ let products = {
             partNumber: " M12*1.5*40 ",
             machine: "",
             price: " 2.35 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.09kg ",
         },
         {
@@ -6694,7 +6694,7 @@ let products = {
             partNumber: " M14*1.5*40 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.12kg ",
         },
         {
@@ -6703,7 +6703,7 @@ let products = {
             partNumber: " M14*1.5*45 ",
             machine: "",
             price: " 2.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.12kg ",
         },
         {
@@ -6712,7 +6712,7 @@ let products = {
             partNumber: " M16*1.5*48 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.16kg ",
         },
         {
@@ -6721,7 +6721,7 @@ let products = {
             partNumber: " M16*1.5*53 ",
             machine: "",
             price: " 2.8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.16kg ",
         },
         {
@@ -6730,7 +6730,7 @@ let products = {
             partNumber: " M18*1.5*57 ",
             machine: "",
             price: " 2.9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6739,7 +6739,7 @@ let products = {
             partNumber: " M20*1.5*57 ",
             machine: "",
             price: " 3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.27kg ",
         },
         {
@@ -6748,7 +6748,7 @@ let products = {
             partNumber: " M20*1.5*65 ",
             machine: "",
             price: " 3.1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.3kg ",
         },
         {
@@ -6757,7 +6757,7 @@ let products = {
             partNumber: " M22*1.5*65 ",
             machine: "",
             price: " 3.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.4kg ",
         },
         {
@@ -6766,7 +6766,7 @@ let products = {
             partNumber: " M24*1.5*70 ",
             machine: "",
             price: " 7.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.52kg ",
         },
         {
@@ -6775,7 +6775,7 @@ let products = {
             partNumber: " M24*1.5*90 ",
             machine: "",
             price: " 8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6784,7 +6784,7 @@ let products = {
             partNumber: " M27*1.5*90 ",
             machine: "",
             price: " 9.9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.9kg ",
         },
         {
@@ -6793,7 +6793,7 @@ let products = {
             partNumber: " (M19)3/4\" * 65 ",
             machine: "",
             price: " 3.2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.38kg ",
         },
         {
@@ -6802,7 +6802,7 @@ let products = {
             partNumber: " 5/8\" - 11 * 2\" ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.125kg ",
         },
         {
@@ -6811,7 +6811,7 @@ let products = {
             partNumber: " 5/8\" - 11 * 2.75\" ",
             machine: "",
             price: " 2.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.155kg ",
         },
         {
@@ -6820,7 +6820,7 @@ let products = {
             partNumber: " 5/8\" - 11 * 3\" ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.165kg ",
         },
         {
@@ -6829,7 +6829,7 @@ let products = {
             partNumber: " 3/4\" - 10 * 2.5\" ",
             machine: "",
             price: " 3.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.21kg ",
         },
         {
@@ -6838,7 +6838,7 @@ let products = {
             partNumber: " 3/4\" - 10 * 3.75\" ",
             machine: "",
             price: " 4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.28kg ",
         },
         {
@@ -6847,7 +6847,7 @@ let products = {
             partNumber: " 3/4\" - 10 * 3\" ",
             machine: "",
             price: " 3.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.24kg ",
         },
         {
@@ -6856,7 +6856,7 @@ let products = {
             partNumber: " 7/8\" * 3\"  ",
             machine: "",
             price: " 6.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.34kg ",
         },
         {
@@ -6865,7 +6865,7 @@ let products = {
             partNumber: " 1\" - 8 * 2.75\" ",
             machine: "",
             price: " 5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.465kg ",
         },
         {
@@ -6874,7 +6874,7 @@ let products = {
             partNumber: " 1\" - 8 * 4\" ",
             machine: "",
             price: " 5.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.56kg ",
         },
         {
@@ -6883,7 +6883,7 @@ let products = {
             partNumber: " 1 1/4\" - 7 * 4.53\" ",
             machine: "",
             price: " 8.9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.615kg ",
         },
         {
@@ -6892,7 +6892,7 @@ let products = {
             partNumber: " M10*1.5*25 ",
             machine: "",
             price: " 1.55 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6901,7 +6901,7 @@ let products = {
             partNumber: " M10*1*35 ",
             machine: "",
             price: " 1.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6910,7 +6910,7 @@ let products = {
             partNumber: " M12*1.75*35 ",
             machine: "",
             price: " 1.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6919,7 +6919,7 @@ let products = {
             partNumber: " M12*1.75*40 ",
             machine: "",
             price: " 1.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6928,7 +6928,7 @@ let products = {
             partNumber: " M12*1.75*65 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 1.3kg ",
         },
         {
@@ -6937,7 +6937,7 @@ let products = {
             partNumber: " M14*2*40 ",
             machine: "",
             price: " 1.8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6946,7 +6946,7 @@ let products = {
             partNumber: " M16*2*50 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6955,7 +6955,7 @@ let products = {
             partNumber: " M16*2*60 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6964,7 +6964,7 @@ let products = {
             partNumber: " M16*2*70 ",
             machine: "",
             price: " 2.1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 1.55kg ",
         },
         {
@@ -6973,7 +6973,7 @@ let products = {
             partNumber: " M16*2*80 ",
             machine: "",
             price: " 2.2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 1.65kg ",
         },
         {
@@ -6982,7 +6982,7 @@ let products = {
             partNumber: " M16*2*110 ",
             machine: "",
             price: " 2.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -6991,7 +6991,7 @@ let products = {
             partNumber: " M18*2.5*90 ",
             machine: "",
             price: " 2.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 2kg ",
         },
         {
@@ -7000,7 +7000,7 @@ let products = {
             partNumber: " M20*2.5*100 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 2.36kg ",
         },
         {
@@ -7009,7 +7009,7 @@ let products = {
             partNumber: " M24*3*110 ",
             machine: "",
             price: " 8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.47kg ",
         },
         {
@@ -7018,7 +7018,7 @@ let products = {
             partNumber: " M24*3*120 ",
             machine: "",
             price: " 9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7027,7 +7027,7 @@ let products = {
             partNumber: " M14*2*45 ",
             machine: "",
             price: " 1.9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.08kg ",
         },
         {
@@ -7036,7 +7036,7 @@ let products = {
             partNumber: " M14*2*60 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7045,7 +7045,7 @@ let products = {
             partNumber: " M16*2*45 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.12kg ",
         },
         {
@@ -7054,7 +7054,7 @@ let products = {
             partNumber: " M18*2.5*50 ",
             machine: "",
             price: " 2.1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.14kg ",
         },
         {
@@ -7063,7 +7063,7 @@ let products = {
             partNumber: " M20*2.5*50 ",
             machine: "",
             price: " 2.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.19kg ",
         },
         {
@@ -7072,7 +7072,7 @@ let products = {
             partNumber: " M20*2.5*55 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.2kg ",
         },
         {
@@ -7081,7 +7081,7 @@ let products = {
             partNumber: " M24*3*60 ",
             machine: "",
             price: " 6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.31kg ",
         },
         {
@@ -7090,7 +7090,7 @@ let products = {
             partNumber: " M10*1.25*55 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7099,7 +7099,7 @@ let products = {
             partNumber: " M12*1.75*50 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7108,7 +7108,7 @@ let products = {
             partNumber: " M14*2*70 ",
             machine: "",
             price: " 2.1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7117,7 +7117,7 @@ let products = {
             partNumber: " M20*2.5*60 ",
             machine: "",
             price: " 2.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.2kg ",
         },
         {
@@ -7126,7 +7126,7 @@ let products = {
             partNumber: " M20*2.5*75 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7135,7 +7135,7 @@ let products = {
             partNumber: " M24*3*55 ",
             machine: "",
             price: " 6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.34kg ",
         },
         {
@@ -7144,7 +7144,7 @@ let products = {
             partNumber: " M16*2*90 ",
             machine: "",
             price: " 2.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7153,7 +7153,7 @@ let products = {
             partNumber: " M16*2*110 ",
             machine: "",
             price: " 3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7162,7 +7162,7 @@ let products = {
             partNumber: " M18*2.5*110 ",
             machine: "",
             price: " 3.2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7171,7 +7171,7 @@ let products = {
             partNumber: " M24*3*80 ",
             machine: "",
             price: " 8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7180,7 +7180,7 @@ let products = {
             partNumber: " M8*70 ",
             machine: "",
             price: " 1.9 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7189,7 +7189,7 @@ let products = {
             partNumber: " M10*55 ",
             machine: "",
             price: " 2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7198,7 +7198,7 @@ let products = {
             partNumber: " M10*80 ",
             machine: "",
             price: " 2.2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7207,7 +7207,7 @@ let products = {
             partNumber: " M10*1.5*90 ",
             machine: "",
             price: " 2.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7216,7 +7216,7 @@ let products = {
             partNumber: " M10*1.5*120 ",
             machine: "",
             price: " 2.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.7kg ",
         },
         {
@@ -7225,7 +7225,7 @@ let products = {
             partNumber: " M12*1.75*90 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 0.9kg ",
         },
         {
@@ -7234,7 +7234,7 @@ let products = {
             partNumber: " M14*1.75*104 ",
             machine: "",
             price: " 2.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 1.85kg ",
         },
         {
@@ -7243,7 +7243,7 @@ let products = {
             partNumber: " M14*1.75*140 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7252,7 +7252,7 @@ let products = {
             partNumber: " M14*2*115 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 2.15kg ",
         },
         {
@@ -7261,7 +7261,7 @@ let products = {
             partNumber: " M14*2*145 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7270,7 +7270,7 @@ let products = {
             partNumber: " M16*2*120 ",
             machine: "",
             price: " 2.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7279,7 +7279,7 @@ let products = {
             partNumber: " M16*2*150 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 2.8kg ",
         },
         {
@@ -7288,7 +7288,7 @@ let products = {
             partNumber: " M16*2*200 ",
             machine: "",
             price: " 2.8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 3.2kg ",
         },
         {
@@ -7297,7 +7297,7 @@ let products = {
             partNumber: " M18*2.5*110 ",
             machine: "",
             price: " 2.5 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7306,7 +7306,7 @@ let products = {
             partNumber: " M18*2.5*180 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7315,7 +7315,7 @@ let products = {
             partNumber: " M20*2.5*160 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7324,7 +7324,7 @@ let products = {
             partNumber: " M20*2.5*170 ",
             machine: "",
             price: " 2.7 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7333,7 +7333,7 @@ let products = {
             partNumber: " M20*2.5*180 ",
             machine: "",
             price: " 2.8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 4.3kg ",
         },
         {
@@ -7342,7 +7342,7 @@ let products = {
             partNumber: " M24*3*200 ",
             machine: "",
             price: " 3.8 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7351,7 +7351,7 @@ let products = {
             partNumber: " M24*3*240 ",
             machine: "",
             price: " 4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " 8.1kg ",
         },
         {
@@ -7360,7 +7360,7 @@ let products = {
             partNumber: " 11.5*22*2.5mm Thick ",
             machine: "",
             price: " 0.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7369,7 +7369,7 @@ let products = {
             partNumber: " 13.5*25.5*3mm Thick ",
             machine: "",
             price: " 0.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7378,7 +7378,7 @@ let products = {
             partNumber: " 15.5*29*3mm Thick ",
             machine: "",
             price: " 0.32 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7387,7 +7387,7 @@ let products = {
             partNumber: " 17.5*32*3mm Thick ",
             machine: "",
             price: " 0.35 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7396,7 +7396,7 @@ let products = {
             partNumber: " 19.5*33*3mm Thick ",
             machine: "",
             price: " 0.38 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7405,7 +7405,7 @@ let products = {
             partNumber: " 22*35*3.5mm Thick ",
             machine: "",
             price: " 0.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7414,7 +7414,7 @@ let products = {
             partNumber: " 24*38*3.5mm Thick ",
             machine: "",
             price: " 0.6 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7423,7 +7423,7 @@ let products = {
             partNumber: " 28*49*4mm Thick ",
             machine: "",
             price: " 1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7432,7 +7432,7 @@ let products = {
             partNumber: " M8 ",
             machine: "",
             price: " 0.3 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7441,7 +7441,7 @@ let products = {
             partNumber: " M10 ",
             machine: "",
             price: " 0.32 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7450,7 +7450,7 @@ let products = {
             partNumber: " M12 ",
             machine: "",
             price: " 0.32 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7459,7 +7459,7 @@ let products = {
             partNumber: " M14 ",
             machine: "",
             price: " 0.35 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7468,7 +7468,7 @@ let products = {
             partNumber: " M16 ",
             machine: "",
             price: " 0.37 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7477,7 +7477,7 @@ let products = {
             partNumber: " M18 ",
             machine: "",
             price: " 0.4 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7486,7 +7486,7 @@ let products = {
             partNumber: " M20 ",
             machine: "",
             price: " 0.42 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7495,7 +7495,7 @@ let products = {
             partNumber: " M22 ",
             machine: "",
             price: " 0.65 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7504,7 +7504,7 @@ let products = {
             partNumber: " M24 ",
             machine: "",
             price: " 1 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
         {
@@ -7513,7 +7513,7 @@ let products = {
             partNumber: " M27 ",
             machine: "",
             price: " 1.2 ",
-            image: src = "images/PartsImage/Nutsandbolts.jpg",
+            image: src = "images/PartsImage/nutsandbolts.jpg",
             weight: " kg ",
         },
 
@@ -8619,3 +8619,4 @@ document.getElementById("search").addEventListener("click", () => {
 window.onload = () => {
     filterProduct("all");
 };
+
